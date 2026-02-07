@@ -63,8 +63,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pruthvi4344&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pruthvi4344&layout=compact&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pruthvi4344" height="165"/>
+  <img src="https://stats.dooboo.io/api/github-trophies?login=pruthvi4344" height="165"/>
 </p>
 
 # 🔥 GitHub Streak
