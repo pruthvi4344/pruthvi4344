@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Pruthviraj+Rathod;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Backend+Engineer;Graduate+Student+@+University+of+Windsor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Pruthviraj+Rathod;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Backend+Engineer;Graduate+Student+@+University+of+Windsor" />
 </p>
 
 <h3 align="center">🚀 Building Scalable Systems | AI | Data | Full Stack</h3>
@@ -51,7 +51,7 @@
 
 ## ☁️ Cloud & Dev Tools
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Microsoft Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud)
 ![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
@@ -60,17 +60,26 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (BIG)
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pruthvi4344" height="165"/>
-  
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pruthvi4344" height="220"/>
 </p>
+
+---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true" height="220"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pruthvi4344&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -83,7 +92,27 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pruthvi4344/pruthvi4344/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pruthvi4344&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 - Portfolio: https://pruthviraj-rathod.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/pruthviraj-rathod-cs/
 - Email: rathod46@uwindsor.ca
+
+---
+
+⭐ From **Pruthviraj Rathod**
