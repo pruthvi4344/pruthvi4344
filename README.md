@@ -63,11 +63,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi4344&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi4344&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi4344&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi4344&layout=compact&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
 </p>
-
----
 
 # 🔥 GitHub Streak
 
