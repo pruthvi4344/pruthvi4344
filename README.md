@@ -75,13 +75,6 @@
   <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pruthvi4344&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
@@ -95,5 +88,5 @@
 
 ## 🌐 Connect With Me
 - Portfolio: https://pruthviraj-rathod.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/pruthviraj-rathod
+- LinkedIn: https://www.linkedin.com/in/pruthviraj-rathod-cs/
 - Email: rathod46@uwindsor.ca
