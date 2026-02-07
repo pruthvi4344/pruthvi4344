@@ -75,7 +75,6 @@
   <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 ---
 
 # 📈 Contribution Graph
