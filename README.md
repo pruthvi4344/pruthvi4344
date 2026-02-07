@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pruthvi4344" height="165"/>
-  <img src="https://stats.dooboo.io/api/github-trophies?login=pruthvi4344" height="165"/>
+  
 </p>
 
 # 🔥 GitHub Streak
