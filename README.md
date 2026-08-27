@@ -90,25 +90,15 @@ const pruthviraj = {
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pruthvi4344&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi4344&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00F7FF" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170" />
 </p>
 
-## <img src="https://media.giphy.com/media/ZaiC2DYDRiqhQuyx8k/giphy.gif" width="28"> &nbsp;Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pruthvi4344&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</p>
-
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> &nbsp;Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi4344&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pruthvi4344/pruthvi4344/output/github-contribution-grid-snake-dark.svg" />
