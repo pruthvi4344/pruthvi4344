@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=200&section=header&text=Pruthviraj%20Rathod&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20%C2%B7%20AI%20%C2%B7%20Backend%20Systems&descAlignY=52&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=200&section=header&text=Pruthviraj%20Rathod&fontSize=48&fontColor=ffffff&fontAlignY=32&descAlignY=52&descSize=16&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+Distributed+Systems;Graduate+Student+%40+UWindsor" />
