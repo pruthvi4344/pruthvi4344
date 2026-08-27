@@ -1,118 +1,129 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=200&section=header&text=Pruthviraj%20Rathod&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20%C2%B7%20AI%20%C2%B7%20Backend%20Systems&descAlignY=52&descSize=16&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Pruthviraj+Rathod;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Backend+Engineer;Graduate+Student+@+University+of+Windsor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+Distributed+Systems;Graduate+Student+%40+UWindsor" />
 </p>
-
-<h3 align="center">🚀 Building Scalable Systems | AI | Data | Full Stack</h3>
-
----
-
-## 🧠 About Me
-- 🎓 Master of Applied Computing — University of Windsor  
-- 💻 Full Stack Developer (React | Django | Spring Boot)  
-- 🤖 Passionate about AI, ML & Automation  
-- 📊 Strong in Backend, APIs & Scalable Systems  
-- 🌐 Portfolio: https://pruthviraj-rathod.netlify.app/  
-- 📫 rathod46@uwindsor.ca  
-
----
-
-# 🛠 Languages and Tools
-
-## 💻 Programming & Frameworks
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-teal?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-
----
-
-## 🌐 Web & UI
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
----
-
-## 📊 Data Analytics & ML
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-teal?style=for-the-badge)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
----
-
-## ☁️ Cloud & Dev Tools
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud)
-![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-
----
-
-# 📊 GitHub Stats (BIG)
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pruthvi4344" height="220"/>
+  <a href="https://pruthviraj-rathod.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=netlify&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/pruthviraj-rathod-cs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rathod46@uwindsor.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3" />
 
-# 🔥 GitHub Streak
+<!-- ===================== ABOUT ===================== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
+
+```js
+const pruthviraj = {
+  education : "Master of Applied Computing @ University of Windsor",
+  role      : "Full Stack Developer",
+  stack     : ["React", "Next.js", "Django", "Spring Boot", "FastAPI"],
+  focus     : ["AI / ML", "Automation", "Scalable Backends", "Data Engineering"],
+  currently : "Building AI-powered developer tools",
+  portfolio : "pruthviraj-rathod.netlify.app",
+  reach     : "rathod46@uwindsor.ca"
+};
+```
+
+- 🎓 &nbsp;Master of Applied Computing — **University of Windsor**
+- 💻 &nbsp;Full Stack Developer — **React · Next.js · Django · Spring Boot**
+- 🤖 &nbsp;Passionate about **AI, ML & Automation**
+- ⚙️ &nbsp;Strong in **Backend, APIs & Scalable Systems**
+- 🧪 &nbsp;Exploring **LLMs, RAG pipelines & vector databases**
+- 🌐 &nbsp;Portfolio → https://pruthviraj-rathod.netlify.app/
+- 📫 &nbsp;Reach me → rathod46@uwindsor.ca
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0F2027&height=3" />
+
+<!-- ===================== TECH ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Languages & Tools
+
+<table align="center">
+<tr><td align="center" width="150"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,go,html,css&perline=8" />
+</td></tr>
+
+<tr><td align="center"><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&perline=8" />
+</td></tr>
+
+<tr><td align="center"><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=django,spring,fastapi,nodejs,express,graphql&perline=8" />
+</td></tr>
+
+<tr><td align="center"><b>AI / ML</b></td><td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</td></tr>
+
+<tr><td align="center"><b>Data</b></td><td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</td></tr>
+
+<tr><td align="center"><b>Cloud & DevOps</b></td><td>
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,git,github,netlify&perline=8" />
+</td></tr>
+
+<tr><td align="center"><b>Tools</b></td><td>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,linux&perline=8" />
+</td></tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00F7FF&height=3" />
+
+<!-- ===================== STATS ===================== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true" height="220"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pruthvi4344&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi4344&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00F7FF" />
 </p>
-
----
-
-# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pruthvi4344&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://streak-stats.demolab.com?user=pruthvi4344&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170" />
 </p>
 
----
-
-# 📈 Contribution Graph
+## <img src="https://media.giphy.com/media/ZaiC2DYDRiqhQuyx8k/giphy.gif" width="28"> &nbsp;Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi4344&theme=tokyo-night"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pruthvi4344&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
 
----
-
-# 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> &nbsp;Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pruthvi4344/pruthvi4344/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi4344&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
-
----
-
-# 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pruthvi4344&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://raw.githubusercontent.com/pruthvi4344/pruthvi4344/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0F2027&height=3" />
 
+<!-- ===================== CONNECT ===================== -->
 ## 🌐 Connect With Me
-- Portfolio: https://pruthviraj-rathod.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/pruthviraj-rathod-cs/
-- Email: rathod46@uwindsor.ca
 
----
+<p align="center">
+  <a href="https://pruthviraj-rathod.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="45" /></a>
+  <a href="https://www.linkedin.com/in/pruthviraj-rathod-cs/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="mailto:rathod46@uwindsor.ca"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+  <a href="https://github.com/pruthvi4344"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+</p>
 
-⭐ From **Pruthviraj Rathod**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pruthvi4344&label=Profile%20Views&color=00F7FF&style=flat-square" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:203A43,100:0F2027&height=120&section=footer" />
