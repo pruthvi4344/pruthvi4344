@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=200&section=header&text=Pruthviraj%20Rathod&fontSize=48&fontColor=ffffff&fontAlignY=32&descAlignY=52&descSize=16&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+Distributed+Systems;Graduate+Student+%40+UWindsor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Data+%26+Analytics;Cloud+%26+DevOps;AI+%26+Machine+Learning;IT+Systems+%26+Support;Graduate+Student+%40+UWindsor" />
 </p>
 
 <p align="center">
@@ -19,20 +19,24 @@
 ```js
 const pruthviraj = {
   education : "Master of Applied Computing @ University of Windsor",
-  role      : "Full Stack Developer",
-  stack     : ["React", "Next.js", "Django", "Spring Boot", "FastAPI"],
-  focus     : ["AI / ML", "Automation", "Scalable Backends", "Data Engineering"],
-  currently : "Building AI-powered developer tools",
+  base      : "Computer Science Engineering + 1 yr as a Software Developer",
+  domains   : ["Software Development", "Data & Analytics",
+               "Cloud & DevOps", "AI / ML", "IT Systems & Support"],
+  builds    : ["Web Apps", "APIs & Backends", "Data Pipelines",
+               "Dashboards", "ML Models", "Automation"],
+  approach  : "Pick up the tool the problem needs, then go deep",
+  currently : "Building projects across multiple tech domains",
   portfolio : "pruthviraj-rathod.netlify.app",
   reach     : "rathod46@uwindsor.ca"
 };
 ```
 
-- 🎓 &nbsp;Master of Applied Computing — **University of Windsor**
-- 💻 &nbsp;Full Stack Developer — **React · Next.js · Django · Spring Boot**
-- 🤖 &nbsp;Passionate about **AI, ML & Automation**
-- ⚙️ &nbsp;Strong in **Backend, APIs & Scalable Systems**
-- 🧪 &nbsp;Exploring **LLMs, RAG pipelines & vector databases**
+- 🎓 &nbsp;Master of Applied Computing — **University of Windsor**, with a **Computer Science Engineering** background
+- 💼 &nbsp;**1+ year** as a Software Developer, shipping real systems for business users
+- 🧩 &nbsp;I work across **software development, data analytics, cloud, AI/ML and IT systems** — not locked into one lane
+- 🛠 &nbsp;Comfortable **end to end**: frontend, APIs, databases, pipelines, deployment
+- ⚡ &nbsp;Quick to pick up **new tools, frameworks and workflows** independently
+- 🤝 &nbsp;Strong team player — equally at home in structured and fast-moving environments
 - 🌐 &nbsp;Portfolio → https://pruthviraj-rathod.netlify.app/
 - 📫 &nbsp;Reach me → rathod46@uwindsor.ca
 
