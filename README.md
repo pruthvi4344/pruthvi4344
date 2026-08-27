@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img width="100%" src="./assets/hero.svg" alt="Pruthviraj Rathod" />
+  <img width="100%" src="./assets/hero-space.svg" alt="Pruthviraj Rathod" />
 </p>
 </p>
 
